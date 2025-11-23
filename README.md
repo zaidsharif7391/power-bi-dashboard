@@ -74,4 +74,4 @@ Results and insights
 •	Warranty governance:
 •	High-frequency claim value bands (≈ 20.53M nominal) across Propulsion/Hotel Load categories; color buckets emphasize timeliness and closure focus; RCA/CRN lags ascertain attention areas.
 •	Debtors control:
-•	May vs April swing in Overdue (+46.95 Cr) with segmentation by Warranty, R Notes, Old Legacy
+•	May vs April swing in Overdue (+46.95 Cr) with segmentation by Warranty, R Notes, Old Legacy.
